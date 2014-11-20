@@ -1,0 +1,225 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.navbar {
+	margin-bottom: 0px;
+}
+
+.area1 {
+	  background: url(img/MB.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 500px;
+
+}
+
+.headline2 {
+	margin-top: -2px
+}
+
+
+
+.MB {
+	background-color: #E8BF19;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+
+	
+}
+
+.scholarship {
+	background-color: silver;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 100%;
+
+	
+}
+
+.leadership {
+	background-color: grey;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 200%;
+}
+
+.service {
+	background-color: #E8BF19;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 300%;
+}
+
+.yellow_box {
+	background-color: #E8BF19;
+	position: relative;
+} 
+
+.square {
+	height: 0;
+padding-bottom: 100%;
+position: relative;
+width: 100%;
+}
+
+
+.olivia {
+	background-image: url(img/olivia2.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.camil {
+	background-image: url(img/camil.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.brit {
+	background-image: url(img/brit.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.david {
+	background-image: url(img/david.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+.christian {
+	background-image: url(img/christian.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.chelsea {
+	background-image: url(img/chelsea.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.neveda {
+	background-image: url(img/neveda.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.stein {
+	background-image: url(img/stein.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.thomas {
+	background-image: url(img/thomas.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.john {
+	background-image: url(img/john.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.caroline {
+	background-image: url(img/caroline.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+.sara {
+	background-image: url(img/sara.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.mike {
+	background-image: url(img/mike.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.will {
+	background-image: url(img/will.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.matt {
+	background-image: url(img/matt.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.cassie {
+	background-image: url(img/cassie.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.alex {
+	background-image: url(img/alex.jpg);
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
