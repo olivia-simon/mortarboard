@@ -69,6 +69,20 @@ width: 100%;
 }
 
 
+.box1 {
+	border-style: solid;
+	border-color:  #CCCCCC;
+	border-radius: 5px;
+	
+	margin-top: 10px;
+	margin-bottom: 40px;
+	text-decoration: none;
+	background-color: none;
+	color: black;
+}
+
+
+
 .olivia {
 	background-image: url(img/olivia2.jpg);
 	  -webkit-background-size: cover;
